@@ -32,7 +32,8 @@ Mosaic transforms portfolio analysis into an interactive exploration experience,
 
 ### Portfolio Overview
 
-<img width="1920" height="1080" alt="Screenshot From 2026-07-25 15-35-11" src="https://github.com/user-attachments/assets/f43f28a0-a645-4dc7-a65e-c2cbd0dde2f1" />
+<img width="1918" height="982" alt="Screenshot From 2026-07-25 17-27-29" src="https://github.com/user-attachments/assets/973f2c93-12bc-4c48-a493-ca17e5fc0218" />
+
 
 
 ### Fund Expansion
