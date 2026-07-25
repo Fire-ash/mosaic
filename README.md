@@ -1,16 +1,128 @@
-# React + Vite
+# Mosaic
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Portfolio Intelligence Explorer
 
-Currently, two official plugins are available:
+Mosaic is an interactive financial knowledge explorer that helps users visualize how their investments are connected.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Instead of navigating through spreadsheets or static dashboards, users can progressively explore relationships between portfolios, mutual funds, sectors, companies, and macroeconomic factors through an interactive expanding interface.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Problem
 
-## Expanding the ESLint configuration
+Modern investment dashboards present financial information as disconnected tables and charts.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Mosaic transforms portfolio analysis into an interactive exploration experience, allowing users to understand how investments relate to each other and what factors influence them.
+
+---
+
+## Features
+
+- Interactive expanding portfolio explorer
+- Progressive drill-down from Portfolio → Funds → Sectors → Companies
+- Context-aware information panel
+- Modern premium dark UI
+- Smooth hover animations
+- Responsive layout
+- Financial hierarchy visualization
+
+---
+
+## Preview
+
+### Portfolio Overview
+
+<img width="1920" height="1080" alt="Screenshot From 2026-07-25 15-35-11" src="https://github.com/user-attachments/assets/f43f28a0-a645-4dc7-a65e-c2cbd0dde2f1" />
+
+
+### Fund Expansion
+<img width="1918" height="982" alt="Screenshot From 2026-07-25 17-21-20" src="https://github.com/user-attachments/assets/9248a4ac-03e9-4bdc-8538-e021dc1b543a" />
+
+
+### Sector Exploration
+
+<img width="1918" height="982" alt="Screenshot From 2026-07-25 17-22-13" src="https://github.com/user-attachments/assets/5e11a6bb-ec83-4298-9d6f-34c39e8d58cb" />
+
+
+### Context Panel
+
+<img width="1918" height="982" alt="Screenshot From 2026-07-25 17-23-01" src="https://github.com/user-attachments/assets/2035e0bc-8e6c-4723-93b9-dd65b84f212e" />
+
+
+---
+
+## Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
+- JavaScript
+
+---
+
+## Project Structure
+
+```
+src/
+ ├── components/
+ ├── data/
+ ├── public/
+ ├── App.jsx
+ └── main.jsx
+```
+
+---
+
+## Future Improvements
+
+- Live market data integration
+- AI-powered investment insights
+- Mutual fund comparison
+- Risk simulation
+- Portfolio optimization
+- Search and filtering
+- Historical trend analysis
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/Fire-ash/mosaic.git
+
+cd mosaic
+
+npm install
+
+npm run dev
+```
+
+---
+
+## Build
+
+```bash
+npm run build
+```
+
+---
+
+## Demo
+
+Demo Video:
+https://drive.google.com/file/d/107ctonokbv_sTWpiZQEg7sn9zE4ah-8j/view?usp=drive_link
+
+Live Website:
+
+https://mosaic-my822jvwi-fire-ash-9980s-projects.vercel.app/
+GitHub Repository:
+https://github.com/Fire-ash/mosaic
+
+---
+
+## Author
+
+**Udit Bisht**
+
+Hackathon Submission • DevsUnite Hiring Hackathon
