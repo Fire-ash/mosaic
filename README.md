@@ -1,6 +1,6 @@
 # Mosaic
 
-> Portfolio Intelligence Explorer
+> Portfolio Intelligence Manager
 
 Mosaic is an interactive financial knowledge explorer that helps users visualize how their investments are connected.
 
