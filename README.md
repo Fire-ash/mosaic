@@ -121,9 +121,3 @@ GitHub Repository:
 https://github.com/Fire-ash/mosaic
 
 ---
-
-## Author
-
-**Udit Bisht**
-
-Hackathon Submission • DevsUnite Hiring Hackathon
